@@ -1,0 +1,27 @@
+
+/* file to be deleted */
+h3 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+    color: rgb(36, 36, 36);
+}
+
+p {
+    text-align: justify;
+    font-size: 1.25em;
+    color: rgb(0, 0, 0);
+}
+
+.main-content {
+  background-color: #fde9ce8c;
+  padding: 10px;
+}
+
+
+
+
+
+
+
