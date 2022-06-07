@@ -5,5 +5,5 @@ function displayImage(url) {
 	document.getElementById("logo").src = url;
 }
 xhr.open('GET', url);
-xhr.onreadystatechange = displayImage(url);
+//xhr.onreadystatechange = displayImage(url);
 xhr.send();
